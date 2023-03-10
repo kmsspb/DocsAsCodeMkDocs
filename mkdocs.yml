@@ -1,7 +1,7 @@
 site_name: RPADocs
 site_url: https://kmsspb.github.io/
 nav:
-    - Home: 01index.md
+    - Home: index.md
     - Getting Started: 02getting-started.md
     - Building bots: 03building-bots.md
     - Deploying bots: 04deploying-bots.md
