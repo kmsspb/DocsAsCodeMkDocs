@@ -1,4 +1,5 @@
 site_name: RPADocs
+site_url: https://kmsspb.github.io/
 nav:
     - Home: 01index.md
     - Getting Started: 02getting-started.md
