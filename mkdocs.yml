@@ -1,0 +1,24 @@
+site_name: RPADocs
+nav:
+    - Home: 01index.md
+    - Getting Started: 02getting-started.md
+    - Building bots: 03building-bots.md
+    - Deploying bots: 04deploying-bots.md
+    - Integrating with other systems: 05integrating-with-other-systems.md
+    - Security and governance: 06security-and-governance.md
+    - Use cases: 07use-cases.md
+    - Conclusion: 08conclusion.md
+theme:
+    name: material
+    font: false
+    palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
