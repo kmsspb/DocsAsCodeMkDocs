@@ -1,5 +1,6 @@
 site_name: RPADocs
 site_url: https://kmsspb.github.io/DocsAsCodeMkDocs/
+repo_url: https://github.com/kmsspb/DocsAsCodeMkDocs/
 nav:
     - Home: index.md
     - Getting Started: 02getting-started.md
